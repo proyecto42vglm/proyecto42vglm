@@ -6,7 +6,7 @@
  * asteriscos. Los campos deben
  * quedar igual que en tu
  * servidor. */
-// @ts-ignore
+// @ts-ignore 
 firebase.initializeApp({
     apiKey: "AIzaSyCYldxbi6104J1WZrMx0ImlkGLGivL0L_I",
     authDomain: "proyecto42lmvg-6fd85.firebaseapp.com",
