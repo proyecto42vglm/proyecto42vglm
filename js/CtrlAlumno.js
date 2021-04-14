@@ -53,6 +53,9 @@ async function busca() {
       forma.matricula.value = data.matricula;
       forma.nombre.value =
         data.nombre || "";
+      forma.telefono.value = data.telefono;
+      forma.grupo.value = data.grupo;
+      forma.fecha.value = data.fecha;
       forma.addEventListener(
         "submit", guarda);
       forma.eliminar.
